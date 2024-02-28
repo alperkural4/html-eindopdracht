@@ -157,7 +157,6 @@ ul {
 .footer {
     background-color: black;
     padding-top: 15%;
-    /* margin-top: 15%; */
 }
 
 #aangepasteFooter {
@@ -339,11 +338,7 @@ input[type="submit"]:hover {
 
 
 .grid-item {
-    /* background-color: rgba(255, 255, 255, 0.8); */
-    /* border: 1px solid rgba(0, 0, 0, 0.8); */
-    /* padding: 40px; */
-    /* font-size: 30px; */
-    /* text-align: center; */
+    
     width: 100%;
     height: auto;
 }
